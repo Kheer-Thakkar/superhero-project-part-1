@@ -1,0 +1,14 @@
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+.body_background 
+{
+    background-image: url("https://images.indianexpress.com/2019/04/avengers-endgame-759-23.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
